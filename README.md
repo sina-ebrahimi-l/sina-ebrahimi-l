@@ -24,6 +24,13 @@ For more than a decade, I have worked as a trader, market analyst and mentor. To
 
 ## Selected Products
 
+### SINA Web Platform
+
+The completed bilingual public website connecting education, mentorship, communities, media and authenticated support.
+
+**Status:** Complete / In Production — owner-accepted 13 November 2026  
+**Website:** [sinaebrahimi.com](https://sinaebrahimi.com)
+
 ### SIA — AI Business Copilot
 
 An AI-assisted operational system connecting customer relationship management, sales workflows and financial records.
